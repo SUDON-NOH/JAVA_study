@@ -1,0 +1,15 @@
+
+public class HelloWorld {
+
+	public static void main(String[] args) { 
+		// It is a main function and it will start the first automatically
+		// TODO Auto-generated method stub
+		System.out.println("Start JAVA study!!"); // log print
+		System.out.println("1"); // save: ctrl + s
+		System.out.println("2"); 
+		// println: will change line
+		// print: not change line
+		
+	}
+
+}
