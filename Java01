@@ -1,4 +1,14 @@
 
+How to start eclipse on Linux?
+1) check the file list
+	$ ls
+
+2) cd eclipse
+3) cd java-2020-06
+4) cd eclipse
+5) ./eclipse
+
+
 public class HelloWorld {
 
 	public static void main(String[] args) { 
